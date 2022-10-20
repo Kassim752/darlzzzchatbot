@@ -27,3 +27,8 @@
     "API_HASH": {
       "description": "Get this value from from my.telegram.org/apps",
       "required": false
+   },
+      "STRING_SESSION": {
+         "description": "STRING SESSION.",
+         "required": true,
+         "value": ""
